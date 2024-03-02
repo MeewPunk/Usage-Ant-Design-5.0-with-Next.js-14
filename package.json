@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@next/bundle-analyzer": "^14.1.1",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^5.14.2",
+    "next": "14.1.0",
+    "next-plugin-antd-less": "^1.8.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
